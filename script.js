@@ -78,3 +78,12 @@ function restartGame(){
     cells.forEach(cell => cell.textContent = "");
     running = true;
 }
+
+<script>
+function play (){
+  var audio = new Audio ('https://www.youtube.com/watch?v=p4OHVJxd2FI');
+  audiopl
+}
+
+
+</script>
